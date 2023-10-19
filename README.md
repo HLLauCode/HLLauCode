@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HLLauCode
 - 👀 I’m interested in video games, web dev.
-- 🌱 I’m currently learning Kotlin / Js / Python
+- 🌱 I’m currently learning Javascript. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
